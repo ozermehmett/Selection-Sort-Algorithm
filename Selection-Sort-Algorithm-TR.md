@@ -23,7 +23,7 @@ Algoritmanın en önemli özelliği, dizinin başlangıç durumundan bağımsız
 
 Bellek açısından verimli olup in-place bir algoritma özelliği gösterir, çünkü her defasında yalnızca minimum sayıda eleman değişimi gerçekleştirir.
 
-![example](https://imgur.com/a/z073mC0)
+![Example](https://github.com/user-attachments/assets/f465a98a-4942-44e5-977c-1d39654735ac)
 
 **Selection Sort Algoritmasının Seçilen Dillerde Uygulanması**
 Haskell
