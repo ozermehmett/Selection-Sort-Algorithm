@@ -17,6 +17,7 @@ Algoritmanın performansı, dizinin başlangıç durumundan bağımsızdır. Zat
 Her döngü sonunda, sıralanmış kısmın boyutu bir eleman artar ve sıralanmamış kısmın boyutu azalır.
 
 **Algoritmanın Avantajları ve Dezavantajları**
+
 Selection Sort, küçük veri setlerinde verimli olan bir sıralama algoritmasıdır. Zaman karmaşıklığının O(n²) olması nedeniyle büyük boyutlu dizilerde performansı düşüktür. 
 
 Algoritmanın en önemli özelliği, dizinin başlangıç durumundan bağımsız olarak her zaman aynı sayıda iterasyon ve karşılaştırma yapmasıdır. Bu, algoritmanın hem avantajı hem de dezavantajıdır. 
