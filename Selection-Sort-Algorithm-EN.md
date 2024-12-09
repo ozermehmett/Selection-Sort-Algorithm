@@ -16,6 +16,7 @@ The algorithm's performance is independent of the initial state of the array. Ev
 At the end of each loop, the size of the sorted part increases by one element, and the size of the unsorted part decreases.
 
 **Algorithm's Advantages and Disadvantages**
+
 Selection Sort is an efficient sorting algorithm for small data sets. Due to its time complexity of O(n²), its performance is poor for large-sized arrays.
 
 The algorithm's most important feature is that it always performs the same number of iterations and comparisons, regardless of the initial state of the array. This is both an advantage and a disadvantage of the algorithm.
