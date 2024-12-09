@@ -22,6 +22,9 @@ The algorithm's most important feature is that it always performs the same numbe
 
 It is memory-efficient and exhibits an in-place algorithm characteristic because it performs element exchange at a minimum number of times.
 
+![Example](https://github.com/user-attachments/assets/943011de-df71-4f54-a0ed-5a73964be213)
+
+
 **Implementation of Selection Sort Algorithm in Selected Languages**
 Haskell
 ```haskell
